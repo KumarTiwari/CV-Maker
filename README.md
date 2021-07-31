@@ -12,3 +12,5 @@ This is How your CV will look :p
 <p align="center">
   <img src="https://github.com/KumarTiwari/CV-Maker/blob/master/resume.png" alt="Your CV looks like this">
 </p>
+
+Just run the resume.py and the resume will be saved on your desktop .
